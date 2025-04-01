@@ -1,4 +1,4 @@
-# Hi there, I'm Omar 👋
+# Hiya there, I'm Omar 👋
 
 Welcome to my GitHub profile! I'm passionate about various areas relating to theoretical computer science and its practical applications. Here you'll find some of my work and contributions.
 
